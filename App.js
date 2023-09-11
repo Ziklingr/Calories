@@ -75,12 +75,15 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    paddingTop: 40,
-    margin: 20,
+    paddingTop: 56,
+    margin: 8,
   },
   field: {
-    marginBottom: 20,
-    marginTop: 20,
+    marginBottom: 8,
+    marginTop: 8,
+  },
+  radio: {
+    marginTop: 8,
   },
   intensity: {
     alignSelf: 'stretch',
